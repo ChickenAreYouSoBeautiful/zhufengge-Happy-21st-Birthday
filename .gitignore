@@ -1,2 +1,4 @@
 # GitHub Pages 会自动构建
 .nojekyll
+
+.vercel
